@@ -1,2 +1,2 @@
-# BradPortfolio
-This is my professional resume showcasing my skills in software development, project management, and full-stack development.
+# BradPortfolio  
+A collection of Python projects showcasing my journey in learning Python. Includes algorithms, data analysis, web scraping, and small web applications..  
